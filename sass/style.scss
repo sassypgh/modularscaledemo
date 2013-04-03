@@ -1,0 +1,61 @@
+@import "utils", "vars";
+@import "breakpoint";
+
+@include establish-baseline;
+
+h1 {
+  @include adjust-font-size-to($xxxlargepx)
+}
+
+h2 {
+  @include adjust-font-size-to($xxlargepx)
+}
+
+h3 {
+  @include adjust-font-size-to($xlargepx)
+}
+
+h4 {
+  @include adjust-font-size-to($largepx)
+}
+
+span {
+  @include adjust-font-size-to($xxsmallpx, 2/3)
+}
+
+body {
+  font-family: $default-font-stack;
+  header,
+  main {
+    margin: 0 10% 0 40%;
+    max-width: 50%;
+  }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: $alternate-font-stack;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+main {
+  position: relative;
+}
+
+aside {
+  position: absolute;
+  text-align: right;
+  width: 50%;
+  top: 0;
+  left: -50%;
+  padding-right: 2em;
+}
+
+span {
+  display: block;
+}

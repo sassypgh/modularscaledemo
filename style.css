@@ -1,0 +1,84 @@
+/* line 61, ../../.rvm/gems/ruby-1.9.3-p392/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+* html {
+  font-size: 150%;
+}
+
+/* line 64, ../../.rvm/gems/ruby-1.9.3-p392/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+html {
+  font-size: 24px;
+  line-height: 1.25em;
+}
+
+/* line 6, sass/style.scss */
+h1 {
+  font-size: 3.375em;
+  line-height: 1.11111em;
+}
+
+/* line 10, sass/style.scss */
+h2 {
+  font-size: 2.25em;
+  line-height: 1.11111em;
+}
+
+/* line 14, sass/style.scss */
+h3 {
+  font-size: 1.58333em;
+  line-height: 1.57895em;
+}
+
+/* line 18, sass/style.scss */
+h4 {
+  font-size: 1.5em;
+  line-height: 1.66667em;
+}
+
+/* line 22, sass/style.scss */
+span {
+  font-size: 0.625em;
+  line-height: 1.33333em;
+}
+
+/* line 26, sass/style.scss */
+body {
+  font-family: "Gentium Basic", serif;
+}
+/* line 29, sass/style.scss */
+body header,
+body main {
+  margin: 0 10% 0 40%;
+  max-width: 50%;
+}
+
+/* line 38, sass/style.scss */
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* line 42, sass/style.scss */
+* {
+  box-sizing: border-box;
+}
+
+/* line 46, sass/style.scss */
+main {
+  position: relative;
+}
+
+/* line 50, sass/style.scss */
+aside {
+  position: absolute;
+  text-align: right;
+  width: 50%;
+  top: 0;
+  left: -50%;
+  padding-right: 2em;
+}
+
+/* line 59, sass/style.scss */
+span {
+  display: block;
+}
