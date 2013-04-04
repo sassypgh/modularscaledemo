@@ -1,11 +1,14 @@
 Modular Scale Demo
 ==================
 
+Introduction to modular scale
+
+* [Tim Brown's Original Article on Modular Scale](http://alistapart.com/article/more-meaningful-typography)
+* [A Speech by Tim Brown where he talks about modular scale](http://vimeo.com/17079380)
+* [An online tool for making modular scales](http://modularscale.com/)
+
 You'll need to [install Compass](http://compass-style.org/install/) to start out.
 
-* [Tim Brown's Original Article](http://alistapart.com/article/more-meaningful-typography)
-* [A Speech by Tim Brown on the same topic](http://vimeo.com/17079380)
-* [An online tool for making modular scales](http://modularscale.com/)
 * [Compass Extension to make modular scale easy](https://github.com/Team-Sass/modular-scale) _Follow the instructions here to install this extension_
 * [Compass' built in vertical rhythm tool](http://compass-style.org/reference/compass/typography/vertical_rhythm/)
 * [A video that explains the Compass' built in vertical rhythm tool better than their own documentation](http://www.youtube.com/v/ls3Clk-kz3s&hl=en_US&fs=1&)
