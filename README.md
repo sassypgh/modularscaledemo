@@ -14,4 +14,4 @@ You'll need to [install Compass](http://compass-style.org/install/) to start out
 * [A video that explains the Compass' built in vertical rhythm tool better than their own documentation](http://www.youtube.com/v/ls3Clk-kz3s&hl=en_US&fs=1&)
 * [A Gist By Eric Meyer combining the modular scale extension with Compass' vertical rhythm](https://gist.github.com/ericam/3601836)
 
-_Heavyily borrowed from [Eric Meyer](_Heavyily borrowed from)_
+_Heavily borrowed from [Eric Meyer](https://twitter.com/eriiicam)_
